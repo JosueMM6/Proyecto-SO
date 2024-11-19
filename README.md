@@ -2,6 +2,7 @@
 
 - Proyecto para la clase de Sistemas Operativos.
 - Simulador de memoria, planificación de procesos y gestor de archivos.
+- Programado en Java.
 - Necesita JDK 23.
 
 ## Características 
