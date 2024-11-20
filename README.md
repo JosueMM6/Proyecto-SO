@@ -4,6 +4,7 @@
 - Simulador de memoria, planificación de procesos y gestor de archivos.
 - Programado en Java.
 - Necesita JDK 23.
+- Hecho en Apache NetBeans IDE 23.
 
 ## Características 
 - Interfaz amigable.
